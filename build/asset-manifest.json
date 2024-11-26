@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AwaisZahid331.github.io/Resume-Builder/static/css/main.9957c928.css",
+    "main.js": "/AwaisZahid331.github.io/Resume-Builder/static/js/main.49bd90db.js",
+    "static/media/hero.svg": "/AwaisZahid331.github.io/Resume-Builder/static/media/hero.f8a0741c88add672b510dbc82123af67.svg",
+    "index.html": "/AwaisZahid331.github.io/Resume-Builder/index.html",
+    "main.9957c928.css.map": "/AwaisZahid331.github.io/Resume-Builder/static/css/main.9957c928.css.map",
+    "main.49bd90db.js.map": "/AwaisZahid331.github.io/Resume-Builder/static/js/main.49bd90db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9957c928.css",
+    "static/js/main.49bd90db.js"
+  ]
+}
